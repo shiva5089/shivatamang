@@ -1,0 +1,44 @@
+body{
+background-image:url(download\ \(1\).jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
+
+
+}
+h1{
+background: linear-gradient(to right, skyblue,rgb(10, 2, 2));
+background-repeat:no-repeat;
+background-attachment: fixed;
+
+
+}
+p{
+background: linear-gradient(to right,skyblue,rgb(49, 0, 0));
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+
+li{
+background: linear-gradient(to right,skyblue,rgb(49, 0, 0));
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+
+ul{
+background: linear-gradient(to right,skyblue,rgb(49, 0, 0));
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+
+a{
+background: linear-gradient(to right,skyblue,rgb(49, 0, 0));
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+
